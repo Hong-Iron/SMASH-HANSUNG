@@ -1,0 +1,34 @@
+{
+ "region": "서울 성북구 삼선동",
+ "nameEn": "Hansung University",
+ "added": "2026-10-24",
+ "rank": 107,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SNU-YEONGEON",
+   "campus": "서울대학교 연건캠퍼스",
+   "km": 1.1
+  },
+  {
+   "code": "SUNGSHIN",
+   "campus": "성신여자대학교 돈암수정캠퍼스",
+   "km": 1.4
+  },
+  {
+   "code": "SKKU",
+   "campus": "성균관대학교 인문사회과학캠퍼스",
+   "km": 1.6
+  },
+  {
+   "code": "KU",
+   "campus": "고려대학교 서울캠퍼스",
+   "km": 1.8
+  },
+  {
+   "code": "DGU",
+   "campus": "동국대학교 서울캠퍼스",
+   "km": 2.9
+  }
+ ]
+}
